@@ -1,0 +1,44 @@
+[
+    {
+        "img":"assets/images/property-01.jpg",
+        "name": "Luxury Villa",
+        "price": "$2.264.000",
+        "title": "18 New Street Miami, OR 97219",
+        "disc": "Bedrooms: 8 Bathrooms: 8 Area: 545m2 Floor: 3 Parking: 6 spots"
+    },
+    {
+        "img":"assets/images/property-02.jpg",
+        "name": "Luxury Villa",
+        "price": "$1.180.000",
+        "title": "54 Mid Street Florida, OR 27001",
+        "disc": "Bedrooms: 6 Bathrooms: 5 Area: 450m2 Floor: 3 Parking: 8 spots "
+    },
+    {
+        "img":"assets/images/property-03.jpg",
+        "name": "Luxury Villa",
+        "price": "$1.460.000",
+        "title": "26 Old Street Miami, OR 38540",
+        "disc": "Bedrooms: 5 Bathrooms: 4 Area: 225m2 Floor: 3 Parking: 10 spots "
+    },
+    {
+        "img":"assets/images/property-04.jpg",
+        "name": "Apartment",
+        "price": "$584.500",
+        "title": "12 New Street Miami, OR 12650",
+        "disc": "Bedrooms: 4 Bathrooms: 3 Area: 125m2 Floor: 25th Parking: 2 cars "
+    },
+    {
+        "img":"assets/images/property-05.jpg",
+        "name": "Penthouse",
+        "price": "$925.600",
+        "title": "34 Beach Street Miami, OR 42680",
+        "disc": "Bedrooms: 4 Bathrooms: 4 Area: 180m2 Floor: 38th Parking: 2 cars "
+    },
+    {
+        "img":"assets/images/property-06.jpg",
+        "name": "Modern Condo",
+        "price": "$450.000",
+        "title": "22 New Street Portland, OR 16540",
+        "disc": "Bedrooms: 3 Bathrooms: 2 Area: 165m2 Floor: 26th Parking: 3 cars "
+    }
+]

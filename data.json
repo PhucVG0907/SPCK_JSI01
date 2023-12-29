@@ -1,0 +1,22 @@
+[
+    {
+        "img": "assets/images/info-icon-01.png",
+        "title": "250 m2",
+        "disc": "Total Flat Space"
+    },
+    {
+        "img": "assets/images/info-icon-02.png",
+        "title": "Contract",
+        "disc": "Contract Ready"
+    },
+    {
+        "img": "assets/images/info-icon-03.png",
+        "title": "Payment",
+        "disc": "Payment Process"
+    },
+    {
+        "img": "assets/images/info-icon-04.png",
+        "title": "Safety",
+        "disc": "24/7 Under Control"
+    }
+]
